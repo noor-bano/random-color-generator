@@ -1,1 +1,1 @@
-# to-do-list using html, css, js
+# Random Color Generator using html, css, js
